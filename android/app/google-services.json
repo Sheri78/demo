@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "79796111678",
+    "project_id": "magma-chat-96c22",
+    "storage_bucket": "magma-chat-96c22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79796111678:android:53d4606bdc171286dbc46f",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79796111678-ue15tkcm2ko64fb7de0egi0c5rmv12rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "6bfeb04ee0604f356e4fa2959494b45bd9efdc87"
+          }
+        },
+        {
+          "client_id": "79796111678-bjr5kik3u46d1ipun478tbp7salo72tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxfjNR1266IDQu5byZXikp779RjrHd3TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79796111678-bjr5kik3u46d1ipun478tbp7salo72tb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79796111678-guu1jkumur40t8n9vojakmj88odm7s61.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
