@@ -215,7 +215,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                               _formKey.currentState!.save();
                               APIs.updateUserInfo().then((value) {
                                 Dialogs.showSnakbar(
-                                    context, 'Profile Updated Successfully!');
+                                    context, 'Profile Updated Successfullyyy!!!!');
                               });
                             }
                           },
